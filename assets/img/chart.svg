@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+    xmlns="http://www.w3.org/2000/svg" version="1.2"
+    viewBox="50 0 200 400"
+    class="graph" id="svg35">
+    <g class="labels x-labels">
+        <polyline
+            fill="none"
+            stroke="#0074d9"
+            stroke-width="2"
+            points="
+       00,10
+       50,60
+       100,80
+       150,20
+       200,80"/>
+        <text
+            x="0"
+            y="100"
+            id="text9">2008
+        </text>
+        <text
+            x="50"
+            y="100"
+            id="text11">2009
+        </text>
+        <text
+            x="100"
+            y="100"
+            id="text13">2010
+        </text>
+        <text
+            x="150"
+            y="100"
+            id="text15">2011
+        </text>
+        <text
+            x="200"
+            y="100"
+            id="text17">2012
+        </text>
+    </g>
+</svg>

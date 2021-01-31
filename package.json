@@ -1,16 +1,25 @@
 {
-  "name": "iotalert",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
-    "generate": "nuxt generate"
-  },
-  "dependencies": {
-    "core-js": "^3.8.3",
-    "nuxt": "^2.14.12"
-  },
-  "devDependencies": {}
+    "name": "iotalert",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "generate": "nuxt generate"
+    },
+    "dependencies": {
+        "bootstrap": "^4.6.0",
+        "bootstrap-vue": "^2.21.2",
+        "core-js": "^3.8.3",
+        "mqtt": "^4.2.6",
+        "node-sass": "^5.0.0",
+        "nuxt": "^2.14.12",
+        "sass-loader": "^10.1.1",
+        "vue": "^2.6.12"
+    },
+    "devDependencies": {
+        "@nuxt/types": "~2.14.0",
+        "vuex": "^3.6.2"
+    }
 }

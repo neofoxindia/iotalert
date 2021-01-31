@@ -1,0 +1,30 @@
+$theme-colors: (
+    'primary': #fffcf2,
+    'secondary': #a8dadc,
+    'success': #06d6a0,
+    'info': #70d6ff,
+    'warning': #ffd166,
+    'danger': #ff85a1,
+    'light': #c0ccda,
+    'dark': #2d2c2c,
+);
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+
+$font-family-base: 'Poppins', sans-serif;
+
+@import '~bootstrap/scss/bootstrap.scss';
+@import "Header";
+
+
+.input-group-text {
+    background-color: #fffcf2;
+}
+
+
+.error-card {
+    position: fixed;
+    z-index: 10000;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
