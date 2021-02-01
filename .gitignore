@@ -68,16 +68,11 @@ typings/
 # nuxt.js build output
 .nuxt
 
-
-
 # vuepress build output
 .vuepress/dist
 
 # Serverless directories
 .serverless
-
-# IDE / Editor
-.idea
 
 # Service worker
 sw.*
